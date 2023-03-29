@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://t2.uc.ltmcdn.com/es/posts/6/1/8/como_saber_si_un_dogo_argentino_es_puro_50816_600.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+button{
+    margin: 10px;
+}
+
+header{
+    margin-bottom: 250px;
+}
+
+.row{
+    color:black;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#texto1{
+    font-size: 40px;
+}
+#texto2{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+#boton1{
+    width: 125px;
+}
