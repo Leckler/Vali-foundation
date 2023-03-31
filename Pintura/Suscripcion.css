@@ -1,0 +1,41 @@
+
+
+#Monto1{
+    margin-top: 20px;
+}
+
+#titulo1{
+    margin-top: 150px;
+    color:black;
+}
+
+
+
+#Boton{
+    position: relative;
+    top: 240px;
+    left: 20px;
+}
+
+body{
+    background-image: url(https://as01.epimg.net/diarioas/imagenes/2022/05/29/actualidad/1653826510_995351_1653826595_noticia_normal_recorte1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#Mensaje{
+    background-color: black;
+}
+
+#lista{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 120px;
+}
+
+#m{
+    background-color: black;
+    height: 300px;
+    padding-top: 100px;
+    border-radius: 15px;
+}

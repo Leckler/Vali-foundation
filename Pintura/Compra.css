@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://images6.alphacoders.com/543/thumb-1920-543670.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#E1{
+    margin-top: 100px;
+
+
+}
+
+#E2{
+    margin-top: 100px;
+
+}
+
+#boton1{
+    margin-top: 50px;
+}
+
+.col-form-label{
+    color:white;
+}
