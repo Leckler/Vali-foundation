@@ -6,6 +6,7 @@
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
       <link rel="stylesheet" href="../Pintura/Suscripcion.css">
+      <title>Suscripcion</title>
     </head>
 
 
@@ -16,21 +17,27 @@
 
     <body>
       <div class="container-fluid">
-        <div class="row align-items-center" id="lista">
-          <div class="col-sm-3 col-md-4 col-lg-4" id="m">
-            <h5>Si donas recibiras descuentos especiales en tus productos seleccionados</h5>
-          </div>
-          <div class="col-sm-6 col-md-5 col-lg-6">
-            <h4 id="titulo1">Ingresa monto de donacion</h4>
-            <div class="input-group mb-3" id="Monto1">
-              <span class="input-group-text">$</span>
-              <span class="input-group-text">0.00</span>
-              <input type="text" class="form-control" aria-label="Dollar amount (with dot and two decimal places)">
+        <div class="row" id="lista">
+          <div class="col-2" id="m">
+            <div class="thumbnail text-center"> 
+              <img src="https://danobishodie.files.wordpress.com/2018/10/hogar.jpg" class="img-fluid" alt="...">
+              <div id="nota">
+                Tus donaciones ayudan a nuestros peludos, realiza una donacion <br>
+                como recompensa recibiras un descuento del 5% en tus productos seleccionados
+              </div>
             </div>
           </div>
-          <div class="col-sm-2 col-md-3 col-lg-2" id="Boton">
-            <button class="btn btn-primary" type="submit">Submit form</button>
+          <div class="col-7">
+            <h4 id="titulo1">Ingresa monto de donacion</h4>
+            <div class="input-group mb-3">
+              <span class="input-group-text">$</span>
+              <span class="input-group-text">0.00</span>
+              <input type="text" class="form-control" aria-label="Dollar amount (with dot and two decimal places)"  id="Monto1">
+            </div>
           </div>
+          <div class="col-3" id="Boton">
+          <button class="btn btn-primary" type="submit">Enviar</button>
+         </div>
         </div>
       </div>
     </body>

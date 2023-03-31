@@ -18,14 +18,12 @@ header{
     font-family: 'Times New Roman', Times, serif;
 }
 
-#texto1{
-    font-size: 40px;
-}
-#texto2{
-    font-size: 30px;
-    margin-bottom: 50px;
-}
+
 
 #boton1{
     width: 125px;
+}
+
+#Presentacion{
+    margin-left: 800px;
 }

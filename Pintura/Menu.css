@@ -2,3 +2,7 @@
 .nav-pills{
     justify-content: right;
 }
+
+#id{
+    position: absolute;
+}

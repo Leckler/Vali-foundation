@@ -1,31 +1,31 @@
 
 
 #Monto1{
-    margin-top: 20px;
+    background-size: 200px;
+    width: 100px;
 }
 
 #titulo1{
-    margin-top: 150px;
-    color:black;
+    margin-top: 240px;
+    color:white;
+    margin-left: 100px;
 }
 
 
 
 #Boton{
     position: relative;
-    top: 240px;
+    top: 277px;
     left: 20px;
 }
 
 body{
-    background-image: url(https://as01.epimg.net/diarioas/imagenes/2022/05/29/actualidad/1653826510_995351_1653826595_noticia_normal_recorte1.jpg);
+    background-image: url(https://fondosmil.com/fondo/20130.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
 
-#Mensaje{
-    background-color: black;
-}
+
 
 #lista{
     font-family: 'Times New Roman', Times, serif;
@@ -34,8 +34,7 @@ body{
 }
 
 #m{
-    background-color: black;
     height: 300px;
-    padding-top: 100px;
     border-radius: 15px;
 }
+
