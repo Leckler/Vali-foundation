@@ -18,12 +18,30 @@ header{
     font-family: 'Times New Roman', Times, serif;
 }
 
+#texto1{
+    font-size: 40px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+#texto2{
+    font-size: 30px;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 #boton1{
     width: 125px;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#Presentacion{
-    margin-left: 800px;
+.container{
+    margin: auto;
 }
