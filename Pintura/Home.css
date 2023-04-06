@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://t2.uc.ltmcdn.com/es/posts/6/1/8/como_saber_si_un_dogo_argentino_es_puro_50816_600.webp);
+    background-image: url(https://images.unsplash.com/photo-1589859762194-eaae75c61f64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGNvbG91cnxlbnwwfHwwfHw%3D&w=1000&q=80);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -9,11 +9,11 @@ button{
 }
 
 header{
-    margin-bottom: 250px;
+    margin-bottom: 100px;
 }
 
 .row{
-    color:black;
+    color:white;
     justify-content: center;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -44,4 +44,30 @@ header{
 
 .container{
     margin: auto;
+}
+
+#fila1{
+    background-color: gray;
+}
+.nav-link{
+    color:white;
+    justify-items: right;
+}
+
+.carousel{
+    height: 350px;
+    width: 350px;
+    margin-right: auto;
+
+}
+
+
+h3{
+    margin-left: auto;
+    margin-top: auto;
+}
+
+p{
+    font-size: 22px;
+    margin-top: 40px;
 }

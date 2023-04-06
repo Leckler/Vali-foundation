@@ -4,6 +4,8 @@
     border-style:double;
     border-color: black;
     border-width: 10px;
+    height: 300px;
+    width: 300px;
 }
 
 body{
@@ -17,7 +19,7 @@ body{
 }
 
 #id1{
-    color:white
+    color:black;
 }
 
 h4{
@@ -45,3 +47,12 @@ h4{
     margin-left: 250px;
 }
 
+
+header{
+    background-color: white;
+}
+
+
+.nav-link{
+    color:white;
+}
